@@ -3,7 +3,6 @@ Spam SMS and Message Detector
 
 My Github Link - https://github.com/remzyyy
 
-
 Spam SMS and Message Detector Project - https://github.com/remzyyy/Spam-SMS-And-Message-Detector
 
  # Overview:
